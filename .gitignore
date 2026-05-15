@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb.html
+
+# IDE
+.vscode/
+.claude/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
